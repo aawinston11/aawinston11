@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- [Vulnerability Management Lab](https://github.com/aawinston11/URL)
+- [Vulnerability Management Lab](https://github.com/aawinston11/VulnerabilityManagementLab)
 - [Penetration Testing Summary Report](https://github.com/aawinston11/URL)
 - [Building Moniroring Environment (Splunk)](https://github.com/aawinston11/URL)
 - [Honeypot Analysis (Azure Sentinel)](https://github.com/aawinston11/URL)
