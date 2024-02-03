@@ -21,8 +21,8 @@
 
 <h2>📄 Certifications</h2>
 
-- [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/9VQ8ZZYCMCBR)
 - [Comptia Security+](https://www.credly.com/badges/49045bde-2514-4fd0-a440-6adefb3340c2/public_url)
+- [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/9VQ8ZZYCMCBR)
 
 <h2> 🤳 Connect with me:</h2>
 
