@@ -4,7 +4,7 @@
 
 - [Vulnerability Management Lab](https://github.com/aawinston11/VulnerabilityManagementLab)
 - [Penetration Testing Summary Report](https://github.com/aawinston11/URL)
-- [Building Moniroring Environment (Splunk)](https://github.com/aawinston11/URL)
+- [Building Monitoring Environment (Splunk)](https://github.com/aawinston11/URL)
 - [Honeypot Analysis (Azure Sentinel)](https://github.com/aawinston11/URL)
 - [ELK Stack](https://github.com/aawinston11/URL)
 - [Active Directory Virtual Lab](https://github.com/aawinston11/URL)
