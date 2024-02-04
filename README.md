@@ -2,17 +2,18 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- [Vulnerability Management Lab](https://github.com/aawinston11/VulnerabilityManagementLab)
 - [Penetration Testing Summary Report](https://github.com/aawinston11/PenetrationTestReport)
+- [Securing Cloud Apps](https://github.com/aawinston11/URL)
 - [Building Monitoring Environment (Splunk)](https://github.com/aawinston11/URL)
 - [Honeypot Analysis (Azure Sentinel)](https://github.com/aawinston11/URL)
 - [ELK Stack](https://github.com/aawinston11/URL)
 - [Active Directory Virtual Lab](https://github.com/aawinston11/URL)
 - [File Integrity Monitor](https://github.com/aawinston11/URL)
 - [SOC Automation](https://github.com/aawinston11/URL)
+- [Vulnerability Management Lab](https://github.com/aawinston11/VulnerabilityManagementLab)
 - [Malware Analysis](https://github.com/aawinston11/URL)
 - [Honeypot Analysis](https://github.com/aawinston11/URL)
-- [Securing Cloud Apps](https://github.com/aawinston11/URL)
+
 
 <h2>🤖 Python Scripting</h2>
 
