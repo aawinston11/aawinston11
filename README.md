@@ -17,8 +17,9 @@
 
 <h2>🤖 Python Scripting</h2>
 
+- [Password Checker and Generator](https://github.com/aawinston11/PasswordCheckerGenerator)
 - [NMAP Automation](https://github.com/aawinston11/URL)
-- [Password Checker and Generator](https://github.com/aawinston11/URL)
+
 
 <h2>📄 Certifications</h2>
 
