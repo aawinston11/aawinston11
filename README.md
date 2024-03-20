@@ -4,7 +4,7 @@
 
 - [Penetration Testing Summary Report](https://github.com/aawinston11/PenetrationTestReport)
 - [Securing Cloud Apps](https://github.com/aawinston11/SecuringWebApps)
-- [Building Monitoring Environment (Splunk)](https://github.com/aawinston11/URL)
+- [Building Monitoring Environment (Splunk)](https://github.com/aawinston11/MonitoringEnvironmentSplunk)
 - [Honeypot Analysis (Azure Sentinel)](https://github.com/aawinston11/URL)
 - [ELK Stack](https://github.com/aawinston11/URL)
 - [Active Directory Virtual Lab](https://github.com/aawinston11/URL)
