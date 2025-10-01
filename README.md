@@ -11,7 +11,6 @@
 <h2>🤖 Python Scripting</h2>
 
 - [Password Checker and Generator](https://github.com/aawinston11/PasswordCheckerGenerator)
-- [NMAP Automation](https://github.com/aawinston11/URL)
 
 
 <h2>📄 Certifications</h2>
@@ -25,7 +24,6 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/andre.winston/
-[linkedin]: https://linkedin.com/in/andrewinston11
 <!--
 **aawinston11/aawinston11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
