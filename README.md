@@ -26,7 +26,7 @@ Three pillars — agents, detection, foundations. AI-assisted, human-validated. 
 
 ## 📜 Credentials
 
-- [**CISSP**] (https://www.credly.com/badges/5b34975a-f896-496c-b89e-d4bdda03f20a/public_url)
+- [**CISSP**](https://www.credly.com/badges/5b34975a-f896-496c-b89e-d4bdda03f20a/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/49045bde-2514-4fd0-a440-6adefb3340c2/public_url)
 - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/specialization/9VQ8ZZYCMCBR)
 
