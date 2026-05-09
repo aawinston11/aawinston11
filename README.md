@@ -6,7 +6,7 @@ Security operations engineer (8 years), CISSP. Building AI-augmented detection a
 
 ---
 
-## 🔧 Flagship: [security-engineering-portfolio](https://github.com/aawinston11/security-engineering-portfolio)
+## Flagship: [security-engineering-portfolio](https://github.com/aawinston11/security-engineering-portfolio)
 
 Three pillars — agents, detection, foundations. AI-assisted, human-validated. Synthetic data only; nothing here references any employer system or production telemetry.
 
@@ -24,7 +24,7 @@ Three pillars — agents, detection, foundations. AI-assisted, human-validated. 
 
 ---
 
-## 📜 Credentials
+## Credentials
 
 - [CISSP](https://www.credly.com/badges/5b34975a-f896-496c-b89e-d4bdda03f20a/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/49045bde-2514-4fd0-a440-6adefb3340c2/public_url)
@@ -32,7 +32,7 @@ Three pillars — agents, detection, foundations. AI-assisted, human-validated. 
 
 ---
 
-## 📨 Connect
+## Connect
 
 - Email — winstoniiandre@gmail.com
 <!-- TODO: add personal site URL if one is current -->
