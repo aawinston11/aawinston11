@@ -2,7 +2,7 @@
 
 Security operations engineer (8 years), CISSP. Building AI-augmented detection and response — agentic triage, prompt-injection-resistant copilots, MCP-driven SecOps tooling, and the detection-as-code and host hardening that hold it up.
 
-**Currently:** open to **Senior Security Operations / Security Engineering** roles where AI-augmented detection and response is part of the brief.
+<!--**Currently:** open to **Senior Security Operations / Security Engineering** roles where AI-augmented detection and response is part of the brief.-->
 
 ---
 
