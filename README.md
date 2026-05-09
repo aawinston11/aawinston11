@@ -34,6 +34,5 @@ Three pillars — agents, detection, foundations. AI-assisted, human-validated. 
 
 ## 📨 Connect
 
-- LinkedIn — [andrewinston11](https://www.linkedin.com/in/andrewinston11/)
 - Email — winstoniiandre@gmail.com
 <!-- TODO: add personal site URL if one is current -->
